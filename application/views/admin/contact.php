@@ -30,12 +30,12 @@
             <div class="card-body">
             <h7 class="m-0 font-weight-bold text-primary">Info Pengguna</h7>
               <ul>
-                <li>Nama    : Sudrajad Hadi Saputra</li>
-                <li>NRP     : 05111740000158</li>
-                <li>Kelas   : PBKK B</li>
-                <li>Website : <a href="https://tugas-pbkk.blogspot.com/"> Tugas PBKK </a> </li>
-                <li>Email   : <a href="mailto:gelombang05@gmail.com?"> gelombang05@gmail.com </a> </li>
-                <li>Twitter   : <a href="https://twitter.com/SudrajadHadi"> @SudrajadHadi </a> </li>
+                <li>Nama    : Kevin Ashil Faadilah</li>
+                <li>NRP     : 05111740000178</li>
+                <li>Kelas   : PBKK A</li>
+                <li>Website : <a href="https://helloweebs.blogspot.com/"> Tugas PBKK </a> </li>
+                <li>Email   : <a href="mailto:richmonds@gmail.com?"> richmonds@gmail.com </a> </li>
+                <li>Twitter   : <a href="https://twitter.com/richmonds"> @faken </a> </li>
               </ul>
             </div>
           </div>

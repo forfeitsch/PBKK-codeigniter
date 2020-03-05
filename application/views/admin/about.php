@@ -28,7 +28,7 @@
               <h6 class="m-0 font-weight-bold text-primary">About Us</h6>
             </div>
             <div class="card-body">
-              Website ini dibuat demi memenuhi tugas Pemrogaman Berbasis Kerangka Kerja Kelas B
+              Website ini dibuat demi memenuhi tugas Pemrogaman Berbasis Kerangka Kerja Kelas A
             </div>
           </div>
 

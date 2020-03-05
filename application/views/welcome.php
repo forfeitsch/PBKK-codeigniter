@@ -81,9 +81,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
    <li>Jumlah</li>
    <li>Harga</li>
   </ul>
-  <li>Develop by Sudrajad Hadi Saputra</li>
-  <li>NRP : 05111740000158</li>
-  <li>Kelas : PBKK - B</li>
+  <li>Develop by Kevin Ashil Faadilah</li>
+  <li>NRP : 05111740000178</li>
+  <li>Kelas : PBKK - A</li>
   </ul>
  </div>
 

@@ -34,8 +34,8 @@
                 <li>NRP     : 05111740000178</li>
                 <li>Kelas   : PBKK A</li>
                 <li>Website : <a href="https://helloweebs.blogspot.com/"> Tugas PBKK </a> </li>
-                <li>Email   : <a href="mailto:richmonds@gmail.com?"> richmonds@gmail.com </a> </li>
-                <li>Twitter   : <a href="https://twitter.com/richmonds"> @faken </a> </li>
+                <li>Email   : <a href="mailto:richrich@gmail.com?"> richrich@gmail.com </a> </li>
+                <li>Twitter   : <a href="https://twitter.com/richgang"> @richgang </a> </li>
               </ul>
             </div>
           </div>
